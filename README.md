@@ -3,6 +3,7 @@
    
 This project presents a finite element analysis (FEA) of a regular pentagon structure using Static Structural and Transient Structural simulation techniques. The material properties were derived from the student roll number (ME-1902), resulting in a Young’s Modulus of 2,000 MPa and a Poisson’s Ratio of 0.28.
 The static analysis utilized a load of 2,020 N (calculated from the date of birth), while the transient simulation applied a time-dependent load of 281.5 N (based on the USD to PKR exchange rate). One face of the pentagon was fixed, and a remote force was applied at one-third of the face length. The analysis compares the deformation and stress results between the static equilibrium and the time-dependent transient response.
+
 Introduction
 
 Finite Element Analysis (FEA) is a numerical method used to predict how a part behaves under physical conditions. In this project, a regular pentagon geometry was analyzed under two distinct conditions:
